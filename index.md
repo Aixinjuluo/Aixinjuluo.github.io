@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Aixinjuluo/Aixinjuluo.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+What Software Engineering means to me
+
+  Software Engineering is a course for teaching students to develop software. We are supposed to gian knowledge about how to develop software in this course, such as applications, websites or games. The most important is the process of engineering software and critification including software specification, software design, software construction, software teasting, software maintenance. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,7 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 What Software Engineering means to me
 
-  Software Engineering is a course for teaching students to develop software. We are supposed to gian knowledge about how to #develop software in this course, such as applications, websites or games. The most important is the process of engineering #software and critification including software specification, software design, software construction, software teasting, #software maintenance. 
+  Software Engineering is a course for teaching students to develop software. We are supposed to gian knowledge about how to develop software in this course, such as applications, websites or games. The most important is the process of engineering software and critification including software specification, software design, software construction, software teasting, software maintenance. 
 
 
 ```
