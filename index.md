@@ -1,4 +1,4 @@
-## Welcome to CSCI260 Pages Tiezheng Wu
+## Welcome to Software Engineering Pages Tiezheng Wu
 
 You can use the [editor on GitHub](https://github.com/Aixinjuluo/Aixinjuluo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### What Software Engineering means to me:
 
-  Software Engineering is a course for teaching students to develop software. We are supposed to gian knowledge about how to develop software in this course, such as applications, websites or games. The most important is the process of engineering software and critification including software specification, software design, software construction, software teasting, software maintenance. 
+  Software Engineering is a course for teaching students to develop software. We are supposed to gain knowledge about how to develop software in this course, such as applications, websites or games. The most important is the process of engineering software and certification including software specification, software design, software construction, software testing, software maintenance. 
 
 
 ### Why are you taking Software Engineering and what you hope to get out the class:
