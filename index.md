@@ -13,6 +13,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
   I am taking this class because I want to be an application or web developer in the future. Software Engineering is a good class for me so far to get into Software developing field. I hope I can gain some knowledge of frontend and backend. I can get familiar with the whole processing of developing the software application.  Moreover, I want to know more about how to test codes or debug codes because I think this is also an important skill we need in the future career. 
 
+### What do you agree with in the chapter?  What do you find confusing or disagree with?  Was there anything that you found interesting or surprising?
+
+  I agree that as a developer, we have to communicate on many levels. Communication is an important part of developing software. I think good programmers need to communicate well with their teams. They work with users and they need to know what users went from them and try to understand users' needs. They write code which communicates their intentions to a machine and documents their thinking for future generations of the developer. The author listed a few ways to help us be good at communicating with our team members or users. 
+  I don't have any confusion. However, from the story of Stone Soup and Boiled Frogs, I think the soldiers are good liers at one level. They use three stone to swindle the ingredients from the villagers. 
+  The interesting I found is the Broken Window Theory. "Don't Live with Broken Windows" every developer needs to keep it in mind. As a good developer, we know there is no perfect program or code, but we need to attempt to approach the perfect. "Don't leave 'broken windows' unrepaired. Fix each one as soon as it is discovered." This theory can be used everywhere. As a human being, Broken Windows are the shortcomings that we need to fix to be a better person. As a coding programmer, Broken Windows are the flaws in your code that might destroy the whole program. "Take some action to prevent further damage and to show that you are on top of the situation"
+
 
 
 ### Markdown
