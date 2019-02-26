@@ -25,6 +25,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 The ones I am interested in are Coding and Testing. They are the two important parts for developers or programmers. As a great programmer, we need to make sure our code is clean first, variables' name is easy to read and track, and read commons for some part of your code in order for other people to read and understand. make sure the code is readable and reliable. The testing is also important because we all make mistakes. Some of those mistakes are unimportant, but some of them are expensive or dangerous. We need to check everything and anything we produce because things can always go wrong. we are humans and humans make mistakes all the time.
 Moreover, I am interested in the Typical layer diagram. It shows me a briefly orthogonal system. I am wondering why the business logic is in this layer. I think it should separate from this diagram and move it to the specification or requirement. It should happen before we design the project. 
 
+### chapter 4
+### What do you agree with in the chapter?  What do you find confusing or disagree with?  Was there anything that you found interesting or surprising?
+  I agree that there is not perfect software. What we can do is trying to make our program as perfect as possible. It is a long way to find out all the bugs in your code and fix them right away. I think this is the point why need testing and code review. In this chapter, we learned the concept of Design by Contract, which it's interesting to me. It is a simple powerful technique that focuses on documenting the rights and responsibilities of the software module to ensure program correctness.The book identifies three different kinds of expressions: preconditions, postconditions, and class invariants. 
+  I think as a great programmer to test code, you should naturally attract to the scenarios where the code may be vulnerable – the edge cases, boundary conditions, and soap opera-style sequences. But to help other people write code, we have to start with the happy path. Write a test that shows that basic core functionality works correctly. Depending on your programming expertise and the tool you’re using, you may automate the test yourself, or the programmer may write the fixture that automates it.
+
 
 ### Markdown
 
